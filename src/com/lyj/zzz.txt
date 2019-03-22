@@ -1,0 +1,5 @@
+List arrayList=new ArrayList();
+        List linkedList=new LinkedList();
+        Stack stack=new Stack();
+        Queue queue=new LinkedBlockingQueue();
+        TreeMap treeMap=new TreeMap();
