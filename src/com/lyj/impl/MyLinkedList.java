@@ -1,8 +1,10 @@
-package com.lyj;
+package com.lyj.impl;
 
 /**
  * Created by Yingjie.Lu on 2019/3/22.
  */
+
+import com.lyj.MyList;
 
 /**
  * 单向链表

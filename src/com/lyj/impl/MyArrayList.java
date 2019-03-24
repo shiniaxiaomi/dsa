@@ -1,4 +1,6 @@
-package com.lyj;
+package com.lyj.impl;
+
+import com.lyj.MyList;
 
 /**
  * Created by Yingjie.Lu on 2019/3/22.
